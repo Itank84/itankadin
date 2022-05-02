@@ -1,9 +1,9 @@
 # tankadin
-Supplementary files for [Tankadin](https://wago.io/tankadin) weakaura. https://wago.io/tankadin
+Supplementary files for [Tankadin](https://wago.io/tankadin) weakaura.
 
 This is sound files for adding custom sounds to a WeakAuras made for World of Warcraft Classic.
 
-Tankadin is a Weakaura for protection Paladins in World of Warcraft TBCC and WotLKC.
+[Tankadin](https://wago.io/tankadin) is a Weakaura for protection Paladins in World of Warcraft TBCC and WotLKC.
 
 This repository provides custom audio files to be used with Tankadin
 
