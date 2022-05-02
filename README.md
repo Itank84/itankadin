@@ -1,5 +1,5 @@
 # tankadin
-Supplementary files for Tankadin weakaura. https://wago.io/tankadin
+Supplementary files for [Tankadin](https://wago.io/tankadin) weakaura. https://wago.io/tankadin
 
 This is sound files for adding custom sounds to a WeakAuras made for World of Warcraft Classic.
 
