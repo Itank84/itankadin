@@ -1,10 +1,8 @@
 # Welcome to the Tankadin repository!
 
-These files are meant to be used with [Tankadin](https://wago.io/tankadin), a WeakAuras made for protection Paladins in World of Warcraft TBCC and WotLKC.
+This is a supplement to [Tankadin](https://wago.io/tankadin), a WeakAuras made for protection Paladins in World of Warcraft TBCC and WotLKC.
 
-This repository provides custom audio files.
-
-You need to extract the zip file to your World of Warcraft\_classic_\Interface directory
+You need to extract CustomSounds.zip to your World of Warcraft\_classic_\Interface directory
 Example: C:\Program Files (x86)\World of Warcraft\_classic_\Interface\CustomSounds\rf.mp3
 
 When adding a new file, or changing the name or file location of the file, you must exit the game entirely, or the new file won't be recognized!
