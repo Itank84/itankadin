@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Welcome to the Tankadin repository!
 
-You can use the [editor on GitHub](https://github.com/Itank84/tankadin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a supplement to [Tankadin](https://wago.io/tankadin), a WeakAura made for protection Paladins in World of Warcraft TBCC and WotLKC.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Step 1. Install the [Tankadin](https://wago.io/tankadin) WeakAura.<br />
+Step 2. Download [CustomSounds.zip](https://github.com/Itank84/tankadin/blob/main/CustomSounds.zip) from this repository.<br />
+Step 3. Extract CustomSounds.zip file into your interface folder [^1].<br />
+Step 4. Restart World of Warcraft, not only relogging [^2].
 
-### Markdown
+If you'd like to contact me, join me on https://discord.gg/lightclubtbc
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Itank84/tankadin/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[^1]: You need to extract CustomSounds.zip to your "World of Warcraft\_classic_\Interface" directory<br />Example: "C:\Program Files (x86)\World of Warcraft\_classic_\Interface\CustomSounds\rf.mp3"<br />WoW's folder structure includes separate folders for each game version - _retail_, _classic_, etc. Be sure you're using the correct folder for your game version.
+[^2]: You must exit the game entirely, or the new file won't be recognized!
