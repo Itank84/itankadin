@@ -7,6 +7,8 @@ Step 2. Download [CustomSounds.zip](https://github.com/Itank84/tankadin/blob/mai
 Step 3. Extract CustomSounds.zip file into your interface folder [^1].<br />
 Step 4. Restart World of Warcraft, not only relogging [^2].
 
+For extensive documentation on Tankadin please visit the [Tankadin GitHub Wiki](https://github.com/Itank84/tankadin/wiki).
+
 If you'd like to contact me, join me on https://discord.gg/lightclubtbc
 
 [^1]: You need to extract CustomSounds.zip to your "World of Warcraft\_classic_\Interface" directory<br />Example: "C:\Program Files (x86)\World of Warcraft\_classic_\Interface\CustomSounds\rf.mp3"<br />WoW's folder structure includes separate folders for each game version - _retail_, _classic_, etc. Be sure you're using the correct folder for your game version.
